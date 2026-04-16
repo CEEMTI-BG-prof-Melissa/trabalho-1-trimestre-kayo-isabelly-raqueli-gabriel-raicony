@@ -1,23 +1,43 @@
 nav{
     text-align: center;
+    padding: 25px;
 }
 h1{
     text-align: center;
-    color: black;
+    color: #f9e8c0;
 }
 body{
-    background-color:#F0F0EC;
+    background-color:#f9e8c0;
+    margin: 0px;
 }
 li{
     font-family:Arial;
-    font-size: 14px;
+    font-size: 20px;
 }
 header{
-    border: solid black;
+    background-color: #722f37 ;
+    border: #722f37;
+    padding: 10px;
+    
+    
 }
 main{
     border:solid black;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+    background-color: #fff7d0;
 }
 footer{
-    border: solid black;
+    background-color: #fff7d0;
+    text-align: center;
+    border: #fff7d0;
+}
+
+a{
+    color:#f9e8c0;
+    margin:10px;
+}
+.comeco{
+    color: #722f37;
 }
